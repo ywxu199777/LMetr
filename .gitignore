@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.env
+
+# Conda
+.conda/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Experimental inputs and generated outputs
+data/raw/
+data/processed/
+processed_images/
+predict/
+cutpictures/
+benchmark/
+runs/
+outputs/
+results/
+*.xls
+*.xlsx
+*.csv
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
