@@ -8,8 +8,8 @@ LMetr is a desktop image-analysis application for wheat seedling phenotyping. Th
 
 The associated dataset is archived on Zenodo:
 
-- **Dataset DOI:** [10.5281/zenodo.24302244](https://doi.org/10.5281/zenodo.24302244)
-- **Zenodo record:** https://doi.org/10.5281/zenodo.24302244
+- **Dataset DOI:** [10.5281/zenodo.24358807](https://doi.org/10.5281/zenodo.24358807)
+- **Zenodo record:** https://doi.org/10.5281/zenodo.24358807
 
 Download the dataset from Zenodo. The `sample_data/` directory in this repository contains instructions only; the complete dataset is not duplicated in GitHub.
 
